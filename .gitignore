@@ -2,7 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 
 # Test folder
-src/main/java/com/mj/test
+src/main/java/com/mj/test/
 
 ### STS ###
 .apt_generated
@@ -25,7 +25,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-pom.xml
-src/main/java/com/mj/easy/
-src/main/java/com/mj/test/
-src/test/
